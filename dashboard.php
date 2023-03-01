@@ -13,7 +13,7 @@
     }
     h1 {
       text-align: center;
-      margin-top: 50px;
+      margin-top: 30px;
       font-size: 3rem;
       text-transform: uppercase;
       letter-spacing: 3px;

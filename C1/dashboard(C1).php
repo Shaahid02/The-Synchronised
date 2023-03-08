@@ -101,7 +101,7 @@
             </tr>
             <?php
             // Connect to MySQL server
-            $conn = mysqli_connect("localhost", "root", "T9uXurTWWL", "mydb");
+            $conn = mysqli_connect("localhost", "username", "password", "mydb");
 
             // Check connection
             if (!$conn) {

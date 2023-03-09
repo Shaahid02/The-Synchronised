@@ -8,7 +8,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   $_SESSION['logged_in'] = true;
 
   // Redirect to the home page or dashboard
-  header('Location: dashboard(C2).php');
+  header('Location: dashboard(C2).html');
   exit();
 
 }

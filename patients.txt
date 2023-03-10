@@ -1,0 +1,65 @@
+1	Patient Name: Jane Doe
+    Address: 456 Elm Street, Anytown, USA
+    Date of Birth: 05/10/1985
+    Date Admitted: 02/01/2023
+    Allergies: Penicillin
+    Preexisting Conditions: Asthma, Seasonal Allergies
+    Current Medications: Albuterol Inhaler, Flonase Nasal Spray
+    Past Surgeries: Tonsillectomy (1995), Appendectomy (2010)
+    Previous Checkups/Past Visits: Annual Physical (2022), Emergency Room Visit (2018)
+    Reason for Admittance: Severe Asthma Attack
+    Current Medical Tests Performed/To be Done: Pulmonary Function Test, Allergy Test
+    Important Notes: Patient has a history of severe asthma attacks and has been hospitalized for this condition in the past.
+
+2   Patient Name: Michael Johnson
+    Address: 789 Maple Ave, Anytown, USA
+    Date of Birth: 12/15/1977
+    Date Admitted: 01/15/2023
+    Allergies: Shellfish
+    Preexisting Conditions: Hypertension, High Cholesterol
+    Current Medications: Amlodipine, Atorvastatin
+    Past Surgeries: None
+    Previous Checkups/Past Visits: Annual Physical (2022), Cardiologist Visit (2019)
+    Reason for Admittance: Chest Pain and Shortness of Breath
+    Current Medical Tests Performed/To be Done: ECG, Blood Tests
+    Important Notes: Patient has a family history of heart disease and has been advised to follow a heart-healthy diet and exercise regularly.
+
+3   Patient Name: Emily Smith
+    Address: 111 Oak St, Anytown, USA
+    Date of Birth: 02/22/2000
+    Date Admitted: 03/05/2023
+    Allergies: None reported
+    Preexisting Conditions: Anxiety, Depression
+    Current Medications: Sertraline
+    Past Surgeries: None
+    Previous Checkups/Past Visits: Annual Physical (2022), Psychologist Visit (2021)
+    Reason for Admittance: Suicidal Thoughts and Ideations
+    Current Medical Tests Performed/To be Done: Mental Health Evaluation, Blood Tests
+    Important Notes: Patient has a history of depression and anxiety and has been undergoing therapy and taking medication for this condition.
+
+4   Patient Name: Michael Rodriguez
+    Address: 222 Pine St, Anytown, USA
+    Date of Birth: 07/01/1955
+    Date Admitted: 02/10/2023
+    Allergies: None reported
+    Preexisting Conditions: Type 2 Diabetes, High Blood Pressure
+    Current Medications: Metformin, Lisinopril
+    Past Surgeries: Coronary Artery Bypass Graft (2000), Hip Replacement (2018)
+    Previous Checkups/Past Visits: Annual Physical (2022), Endocrinologist Visit (2021)
+    Reason for Admittance: Wound Infection after Hip Replacement Surgery
+    Current Medical Tests Performed/To be Done: Blood Culture, Wound Culture
+    Important Notes: Patient has a history of coronary artery disease and has undergone coronary artery bypass graft surgery in the past.
+
+5   Patient Name: Sarah Patel
+    Address: 333 Cherry St, Anytown, USA
+    Date of Birth: 09/05/1995
+    Date Admitted: 01/25/2023
+    Allergies: None reported
+    Preexisting Conditions: None
+    Current Medications: None
+    Past Surgeries: None
+    Previous Checkups/Past Visits: Annual Physical (2022)
+    Reason for Admittance: Abdominal Pain and Vomiting
+    Current Medical Tests Performed/To be Done: Abdominal Ultrasound, Blood Tests
+    Important Notes: This is the first time the patient has been admitted to the hospital. She reports experiencing intermittent abdominal pain and vomiting for the past 24 hours. She denies any history of gastrointestinal problems or surgeries.
+

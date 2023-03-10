@@ -1,0 +1,106 @@
+1	Patient Name: Jane Doe
+    Date Admitted: 02/01/2023
+	Reason for Admittance: Severe Asthma Attack
+    Current Medical Tests Performed/To be Done: Pulmonary Function Test, Allergy Test
+    
+    Personal details:
+		Date of Birth: 05/10/1985
+		Gender: Female
+		ID Number: 123456789
+		Contact Info: jane.doe@email.com, (555) 123-4567
+		Address: 456 Elm Street, Anytown, USA
+		Emergency Contact Info: John Smith (brother), (555) 234-5678
+		Blood Type: A+
+		
+	Allergies: Penicillin
+    Preexisting Conditions: Asthma, Seasonal Allergies
+    Current Medications: Albuterol Inhaler, Flonase Nasal Spray
+    Past Surgeries: Tonsillectomy (1995), Appendectomy (2010)
+    Previous Checkups/Past Visits: Annual Physical (2022), Emergency Room Visit (2018)
+    Important Notes: Patient has a history of severe asthma attacks and has been hospitalized for this condition in the past.
+
+2   Patient Name: Michael Johnson
+    Date Admitted: 01/15/2023
+    Reason for Admittance: Chest Pain and Shortness of Breath
+    Current Medical Tests Performed/To be Done: ECG, Blood Tests
+    
+	Personal details:
+		Date of Birth: 12/15/1977
+		Gender: Male
+		ID Number: 987654321
+		Contact Info: michaelj@email.com, (555) 987-6543
+		Address: 789 Maple Ave, Anytown, USA
+		Emergency Contact Info: Jane Doe (spouse), (555) 876-5432
+		Blood Type: O-
+	
+	Allergies: Shellfish
+    Preexisting Conditions: Hypertension, High Cholesterol
+    Current Medications: Amlodipine, Atorvastatin
+    Past Surgeries: None
+    Previous Checkups/Past Visits: Annual Physical (2022), Cardiologist Visit (2019)
+    Important Notes: Patient has a family history of heart disease and has been advised to follow a heart-healthy diet and exercise regularly.
+
+3   Patient Name: Emily Smith
+    Date Admitted: 03/05/2023
+    Reason for Admittance:  Snake Bite
+    Current Medical Tests Performed/To be Done: Blood Tests,  CT scans
+    
+	Personal details:
+		Date of Birth: 02/22/2000
+		Gender: Female
+		ID Number: 2468101214
+		Contact Info: emily.s@email.com, (555) 456-7890
+		Address: 111 Oak St, Anytown, USA
+		Emergency Contact Info: Jose Garcia (father), (555) 234-5678
+		Blood Type: AB+
+		
+	Allergies: None reported
+    Preexisting Conditions: Multiple Sclerosis (MS)
+    Current Medications: Sertraline
+    Past Surgeries: None
+    Previous Checkups/Past Visits: Annual Physical (2022)
+    Important Notes: None
+
+4   Patient Name: Michael Rodriguez
+    Date Admitted: 02/10/2023
+	Reason for Admittance: Wound Infection after Hip Replacement Surgery
+    Current Medical Tests Performed/To be Done: Blood Culture, Wound Culture
+    
+    Personal details:
+		Date of Birth: 12/31/1980
+		Gender: Male
+		ID Number: 9876543210
+		Contact Info: michaelR@email.com, (555) 789-1234
+		Address: 101 York St, Sometown, USA
+		Emergency Contact Info: Michelle Rodriguez(sister), (555) 678-9012
+		Blood Type: B-
+		
+    
+    Allergies: None reported
+    Preexisting Conditions: Type 2 Diabetes, High Blood Pressure
+    Current Medications: Metformin, Lisinopril
+    Past Surgeries: Coronary Artery Bypass Graft (2000), Hip Replacement (2018)
+    Previous Checkups/Past Visits: Annual Physical (2022), Endocrinologist Visit (2021)
+    Important Notes: Patient has a history of coronary artery disease and has undergone coronary artery bypass graft surgery in the past.
+
+5   Patient Name: Sarah Patel
+    Date Admitted: 01/25/2023
+    Reason for Admittance: Abdominal Pain and Vomiting
+    Current Medical Tests Performed/To be Done: Abdominal Ultrasound, Blood Tests
+    
+	Personal details:
+		Date of Birth: 05/20/1992
+		Gender: Female
+		ID Number: 1357902468
+		Contact Info: sarah.patel@email.com, (555) 123-4567
+		Address: 333 Cherry St, Anytown, USA
+		Emergency Contact Info: Michael Lee (father), (555) 234-5678
+		Blood Type: A-
+			
+	Allergies: None reported
+    Preexisting Conditions: None
+    Current Medications: None
+    Past Surgeries: None
+    Previous Checkups/Past Visits: Annual Physical (2022)
+    Important Notes: This is the first time the patient has been admitted to the hospital. She reports experiencing intermittent abdominal pain and vomiting for the past 24 hours. She denies any history of gastrointestinal problems or surgeries.
+
